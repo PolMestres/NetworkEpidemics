@@ -6,5 +6,4 @@ This script simulates an stochastic SIR model in which infected nodes independen
 they are infected by dropping all connections to its neighboring nodes.
 Nodes are displayed in different colors depending on whether they are susceptible (green), infected (red) or recovered (blue).
 
-
-![](simulated-image.png)
+<img width="1316" alt="simulation-image" src="https://user-images.githubusercontent.com/31922605/135208889-dab9eb17-a002-418d-a33c-35ee9f3ccfb0.png">
